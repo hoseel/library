@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@500&display=swap'); /*'Noto Serif KR', serif*/
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Noto+Serif+KR:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Nanum+Gothic&family=Noto+Serif+KR:wght@500&display=swap'); /*'Nanum Gothic', sans-serif;*/
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&display=swap'); /*font-family: 'Noto Sans KR', sans-serif;*/
+@import url('https://fonts.googleapis.com/css2?family=Song+Myung&display=swap'); /*font-family: 'Song Myung', serif;*/
+
+A:link {text-decoration:none; color:#4682B4;}
+
+A:visited {text-decoration:none; color:#4682B4;}
+
+A:hover {text-decoration:none; color:#F4796F; font-weight: bolder}
+
+A:focus {text-decoration:none; color:#F4796F; font-weight: bolder}
+
+A:active {text-decoration:none; color:#F4796F; font-weight: bolder}
+
+::selection {
+	background: #B0E0E6; color: black;
+}
+
+h2 {
+	font-family: 'Song Myung', serif;
+}
+
+BODY {
+	background-color: white; FONT-SIZE: 9pt; COLOR: black; LINE-HEIGHT: 160%; FONT-FAMILY: 'Nanum Gothic', sans-serif;
+}
+
+TD {
+	FONT-SIZE: 9pt; COLOR: black; LINE-HEIGHT: 160%; font-family: 'Noto Sans KR', sans-serif;
+}
+SELECT {
+	FONT-SIZE: 9pt; COLOR: black; LINE-HEIGHT: 160%; font-family: 'Noto Sans KR', sans-serif;
+}
+DIV {
+	FONT-SIZE: 9pt; COLOR: black; LINE-HEIGHT: 160%; font-family: 'Noto Sans KR', sans-serif;
+}
+FORM {
+	FONT-SIZE: 9pt; COLOR: black; LINE-HEIGHT: 160%; font-family: 'Noto Sans KR', sans-serif;
+}
+TEXTAREA {
+	BORDER-RIGHT: 1px solid #999999; BORDER-TOP: 1px solid #999999; FONT-SIZE: 9pt; BORDER-LEFT: 1px solid #999999 ; COLOR: BLACK; BORDER-BOTTOM: 1px solid #999999; font-family: 'Noto Sans KR', sans-serif; BACKGROUND-COLOR: white;
+}
+INPUT {
+	BORDER-RIGHT: 1px solid #999999; BORDER-TOP: 1px solid #999999; FONT-SIZE: 9pt; BORDER-LEFT: 1px solid #999999; COLOR: BLACK; BORDER-BOTTOM: 1px solid #999999; font-family: 'Noto Sans KR', sans-serif; HEIGHT: 20px; BACKGROUND-COLOR: white;
+}
+
+select {
+	BORDER-RIGHT: 1px solid #999999; BORDER-TOP: 1px solid #999999; FONT-SIZE: 9pt; BORDER-LEFT: 1px solid #999999; COLOR: BLACK; BORDER-BOTTOM: 1px solid #999999; font-family: 'Noto Sans KR', sans-serif; HEIGHT: 22px; BACKGROUND-COLOR: white;
+}
+table { 
+	border-collapse: collapse; 
+}
